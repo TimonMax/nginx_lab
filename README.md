@@ -17,7 +17,7 @@
 
 ### 1. Клонировать репозиторий
 ```bash
-git clone <https://github.com/TimonMax/nginx-lab.git>
+git clone <https://github.com/TimonMax/nginx_lab.git>
 cd nginx-lab
 ```
 ### 2. Запустить контейнеры Docker
